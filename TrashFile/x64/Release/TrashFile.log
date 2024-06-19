@@ -1,0 +1,3 @@
+﻿  main.cpp
+MSVCRT.lib(exe_main.obj) : error LNK2001: неразрешенный внешний символ main.
+C:\Users\axm\Documents\practic\TrashFile\x64\Release\TrashFile.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
